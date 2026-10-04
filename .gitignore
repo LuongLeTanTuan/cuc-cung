@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.tmp
+extracted_raw.txt
+sa_inspection.txt
+mcq_inspection.txt
